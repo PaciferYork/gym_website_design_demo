@@ -3,7 +3,7 @@
 
 ## Link to the deployed site:
 
-Add badges from somewhere like: [shields.io](https://github.com/PaciferYork/gym_website_design_demo)
+Add badges from somewhere like: [Link](https://github.com/PaciferYork/gym_website_design_demo)
 
 ## Licence
 
